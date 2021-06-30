@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"  crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/css/style.css">
+    <title>HealthTrack Login</title>
+
+  </head>
+  <body>
+    <main class="container-fluid">
+      <div class="logo">
+      <header>
+        <img src="images/logo.png"/>
+      </header>
+      </div>
+      <form>
+        <div class="input-div"> 
+          <input type="text" class="form-control" placeholder="CPF" aria-label="Email" aria-describedby="basic-addon1" required pattern="([0-9]){11}">
+        </div> 
+        <div>
+          <input type="password" class="form-control" placeholder="SENHA" aria-label="SENHA" aria-describedby="basic-addon1">
+        </div>
+        <div class="btn-wrapper">
+            <button onclick="location.href='dashboard.html'" type="submit" class="btn btn-login">ENTRAR</button>
+          </div>
+          <div class="help-login">
+            <a href="#">ESQUECI MINHA SENHA ></a>
+            <a href="#">CRIAR UMA CONTA ></a>
+          </div>
+        </form>
+    </main>
+
+  </body>
+</html>

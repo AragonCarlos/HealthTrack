@@ -1,0 +1,208 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(30, 31, 33);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+.yellowtarj { 
+	border:2px solid rgba(0, 0, 0, 1);
+}
+.eyellowtarj { 
+	width:41px;
+	height:19px;
+	position:absolute;
+	left:70px;
+	top:166px;
+}
+.yellowtarj2 { 
+	background-color:rgba(255, 190.0000038743019, 0, 1);
+	width:446px;
+	height:87px;
+	position:absolute;
+	left:0px;
+	top:126px;
+}
+.toptarj { 
+	background-color:rgba(255, 190.0000038743019, 0, 1);
+	width:313px;
+	height:47px;
+	position:absolute;
+	left:-0.5px;
+	top:47.5px;
+}
+.premium { 
+	color:rgba(0, 0, 0, 1);
+	width:40px;
+	height:12px;
+	position:absolute;
+	left:210px;
+	top:73px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:10px;
+	letter-spacing:0;
+}
+.profilepic { 
+	width:25px;
+	height:26px;
+	position:absolute;
+	left:177px;
+	top:58px;
+	border-top-left-radius:80px;
+	border-top-right-radius:80px;
+	border-bottom-left-radius:80px;
+	border-bottom-right-radius:80px;
+	background-image:url(/images/fotinho_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.logoref { 
+	width:267px;
+	height:41px;
+	position:absolute;
+	left:150px;
+	top:149px;
+	background-image:url(/images/logo_darkgray_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.usernameTxt { 
+	color:rgba(30.00000011175871, 31.000000052154064, 33.00000183284283, 1);
+	width:77px;
+	height:15px;
+	position:absolute;
+	left:209px;
+	top:58px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}
+.secondbg { 
+	background-color:rgba(39.00000147521496, 40.00000141561031, 43.00000123679638, 1);
+	width:984px;
+	height:954px;
+	position:absolute;
+	left:468px;
+	top:131px;
+}
+.feedprofilepic { 
+	width:85px;
+	height:74px;
+	position:absolute;
+	left:511px;
+	top:161px;
+	border-top-left-radius:80px;
+	border-top-right-radius:80px;
+	border-bottom-left-radius:80px;
+	border-bottom-right-radius:80px;
+	background-image:url(/images/camila_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.profileName { 
+	color:rgba(255, 255, 255, 0.800000011920929);
+	width:195px;
+	height:22px;
+	position:absolute;
+	left:625px;
+	top:168px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.refTime { 
+	color:rgba(255, 255, 255, 1);
+	width:324px;
+	height:25px;
+	position:absolute;
+	left:625px;
+	top:194px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:15px;
+	letter-spacing:0;
+}
+.exStatus { 
+	color:rgba(255, 255, 255, 0.8999999761581421);
+	width:243px;
+	height:23px;
+	position:absolute;
+	left:516px;
+	top:293px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.distance { 
+	color:rgba(255, 255, 255, 0.800000011920929);
+	width:147px;
+	height:31px;
+	position:absolute;
+	left:516px;
+	top:344px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:-2.5;
+}
+.kcalCount { 
+	color:rgba(255, 255, 255, 0.800000011920929);
+	width:147px;
+	height:31px;
+	position:absolute;
+	left:741px;
+	top:344px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:-2.5;
+}
+.distanceTxt{ 
+	color:rgba(255, 255, 255, 0.800000011920929);
+	width:58px;
+	height:21px;
+	position:absolute;
+	left:516px;
+	top:326px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:15px;
+	letter-spacing:0.5;
+}
+.kcalText { 
+	color:rgba(255, 255, 255, 0.800000011920929);
+	width:49px;
+	height:19px;
+	position:absolute;
+	left:741px;
+	top:327px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:15px;
+	letter-spacing:0.5;
+}
+.mapRoute { 
+	width:984px;
+	height:549px;
+	position:absolute;
+	left:468px;
+	top:384px;
+	background-image:url(/images/maptrajeto_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.downBtn { 
+	width:34px;
+	height:16px;
+	position:absolute;
+	left:99px;
+	top:161px;
+	background-image:url(/images/arrowdown_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
